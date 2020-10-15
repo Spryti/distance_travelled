@@ -1,0 +1,10 @@
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\bin\Debug\Distance Travelled Calculator.exe.config
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\bin\Debug\Distance Travelled Calculator.exe
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\bin\Debug\Distance Travelled Calculator.pdb
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance Travelled Calculator.csprojAssemblyReference.cache
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance_Travelled_Calculator.Form1.resources
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance_Travelled_Calculator.Properties.Resources.resources
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance Travelled Calculator.csproj.GenerateResource.cache
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance Travelled Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance Travelled Calculator.exe
+C:\Users\Jedida\Desktop\fallProjects\Distance Travelled Calculator\obj\Debug\Distance Travelled Calculator.pdb
