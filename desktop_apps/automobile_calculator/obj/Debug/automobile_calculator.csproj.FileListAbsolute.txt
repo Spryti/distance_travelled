@@ -1,0 +1,10 @@
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\bin\Debug\automobile_calculator.exe.config
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\bin\Debug\automobile_calculator.exe
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\bin\Debug\automobile_calculator.pdb
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.csprojAssemblyReference.cache
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.frmAoutomoblieCost.resources
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.Properties.Resources.resources
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.csproj.GenerateResource.cache
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.exe
+C:\Users\Jedida\Desktop\fallProjects\automobile_calculator\obj\Debug\automobile_calculator.pdb
